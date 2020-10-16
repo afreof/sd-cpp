@@ -1,3 +1,6 @@
 [submodule "sdbus-cpp"]
 	path = sdbus-cpp
 	url = https://github.com/afreof/sdbus-cpp.git
+[submodule "sdevent-cpp"]
+	path = sdevent-cpp
+	url = https://github.com/afreof/sdevent-cpp.git
